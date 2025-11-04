@@ -88,4 +88,8 @@ body {
   .main { 
     width: calc(100% - 2rem);
   }
+
+  .logo {
+  max-height: 8rem;
+  }
 }
