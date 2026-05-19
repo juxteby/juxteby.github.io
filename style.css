@@ -51,6 +51,11 @@ body {
   fill: red;
 }
 
+.social a .discord {
+  width: auto;
+  height: 2.3rem;
+}
+
 .channels {
   display: flex;
   flex-direction: column;
